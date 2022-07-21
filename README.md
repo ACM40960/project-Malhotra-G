@@ -8,7 +8,7 @@ Analysing the LaLiga teams in terms of their passing, attacking and defending pl
 Focusing on the top teams - Barecelona and Real Madrid 
 
 #### Software 
-Jupyter Notebooks - Ananacond 
+Jupyter Notebooks - Anaconda 
 
 
 #### Result
