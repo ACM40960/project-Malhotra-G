@@ -3,19 +3,21 @@
 
 #### Overview
 
-Analysing the LaLiga teams in terms of their passing, attacking and defending plays using the 2019-2020 Season as our reference
+Analysing the LaLiga teams in terms of their passing, attacking and defending plays using the 2019-2020 Season as our reference.
 
-Focusing on the top teams - Barecelona and Real Madrid 
+Focusing on the top teams - Barecelona and Real Madrid.  
 
 #### Software 
 Jupyter Notebooks - Anaconda 
 
 
 #### Result
-Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage.
+Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage. It also includes player rating based on Multi Criteria Decision Making method.
 
 #### Data
-We will be using Statsbomb as our data source which has immense detailed open-source data.
+We will be using Statsbomb as our data source which has immense detailed open-source data. There are two csv files which are required for this project, these files are in data folder :
+"*" matchwise_eventsdata_2019-2020.csv
+"*" matchwise_seasondata_2019-2020.csv
 
 ‘Events Data’ which is used to capture each on-ball event of the match, recorded for all the matches of the league for that particular season.  
 
