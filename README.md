@@ -46,9 +46,10 @@ It is recommended to download [Anaconda](https://www.anaconda.com/products/distr
 If any **errors** are encountered during the installation, use the [troubleshoot](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/) forum
 
 
-*mplsoccer*
+Following libraries needs to be installed in jupyter notebook using `pip` commmand.
 
-`pip install mplsoccer`
+- `pip install mplsoccer`
+- `pip install plotly`
 
 ## Running the code
 Once, the libraries are installed, either user can run the code cell by cell or there is a option to run all.
