@@ -19,6 +19,8 @@ Report containing our findings using the event data which can be presented to a 
 
 ![](Images/generatingPassMaps.png)
 
+Detailed report for all the matches of Barcelona for LaLiga 2019-2020 is available in folder ''. 
+
 #### Data
 We will be using Statsbomb as our data source which has immense detailed open-source data. There are two csv files which are required for this project, these files are in data folder :
 - matchwise_eventsdata_2019-2020.csv
