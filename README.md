@@ -15,7 +15,7 @@ Jupyter Notebooks - Anaconda
 
 Player Rating has been calculated using MCDM method.
 
-Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage. 
+Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage. All the passing maps for Barcelona against different teams have store under folder **passing_map_report**. Here is an output for one of the El-Clasico match which shows the playing pattern for both the teams through a pass map.
 
 ![](Images/generatingPassMaps.png)
 
