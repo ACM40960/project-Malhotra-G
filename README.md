@@ -5,10 +5,12 @@
 
 Analysing the LaLiga teams in terms of their passing, attacking and defending plays using the 2019-2020 Season as our reference.
 
-Focusing on the top teams - Barecelona and Real Madrid.  
+Focusing on play pattern of top teams - Barecelona and Real Madrid, Player Ranking based on multi-criteria-decision-making method.
+
+Generating Report for all the matches of Barcelona and saving it in a pdf file.
 
 ## Software 
-Jupyter Notebooks - Anaconda 
+Jupyter Notebook - Anaconda 
 
 
 ## Result
