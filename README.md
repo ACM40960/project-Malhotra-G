@@ -14,6 +14,8 @@ Jupyter Notebooks - Anaconda
 #### Result
 Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage. It also includes player rating based on Multi Criteria Decision Making method.
 
+![](images/generatingPassMaps.png)
+
 #### Data
 We will be using Statsbomb as our data source which has immense detailed open-source data. There are two csv files which are required for this project, these files are in data folder :
 - matchwise_eventsdata_2019-2020.csv
