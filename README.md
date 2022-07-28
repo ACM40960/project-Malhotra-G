@@ -47,6 +47,13 @@ If any **errors** are encountered during the installation, use the [troubleshoot
 *mplsoccer*
 
 `pip install mplsoccer`
+
+## Running the code
+Once, the libraries are installed, either user can run the code cell by cell or there is a option to run all.
+To run all the cells at once :
+- Go to cells tab
+- Select run all
+- 
 ## Authors
 
 - [Gautam Malhotra](https://github.com/Malhotra-G)
