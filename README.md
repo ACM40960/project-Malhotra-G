@@ -14,6 +14,7 @@ Jupyter Notebooks - Anaconda
 #### Result
 
 Player Rating has been calculated using MCDM method.
+
 Report containing our findings using the event data which can be presented to a football coach/manager conveying insights on how their opponents play and providing them with sufficient information to devise counter-strategies, gaining a competitive advantage. 
 
 ![](Images/generatingPassMaps.png)
