@@ -1,17 +1,17 @@
 
 # LaLiga (2019-2020) Play analysis
 
-#### Overview
+## Overview
 
 Analysing the LaLiga teams in terms of their passing, attacking and defending plays using the 2019-2020 Season as our reference.
 
 Focusing on the top teams - Barecelona and Real Madrid.  
 
-#### Software 
+## Software 
 Jupyter Notebooks - Anaconda 
 
 
-#### Result
+## Result
 
 Player Rating has been calculated using MCDM method.
 
@@ -21,14 +21,14 @@ Report containing our findings using the event data which can be presented to a 
 
 Detailed report for all the matches of Barcelona for LaLiga 2019-2020 is available in folder ''. 
 
-#### Data
+## Data
 We will be using Statsbomb as our data source which has immense detailed open-source data. There are two csv files which are required for this project, these files are in data folder :
 - matchwise_eventsdata_2019-2020.csv
 - matchwise_seasondata_2019-2020.csv
 
 ‘Events Data’ which is used to capture each on-ball event of the match, recorded for all the matches of the league for that particular season.  
 
-#### Packages Required
+## Packages Required
 
 *mplsoccer* - 
 
@@ -53,9 +53,10 @@ Once, the libraries are installed, either user can run the code cell by cell or 
 To run all the cells at once :
 - Go to cells tab
 - Select run all
-- 
+
 ## Authors
 
-- [Gautam Malhotra](https://github.com/Malhotra-G)
 - [Siddharth Rastogi](https://github.com/Sid-rastogi)
+- [Gautam Malhotra](https://github.com/Malhotra-G)
+
 
