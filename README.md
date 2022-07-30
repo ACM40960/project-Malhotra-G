@@ -15,6 +15,8 @@ Jupyter Notebook - Anaconda
 
 ## Result
 
+*Outputs and results have not been cleared from the jupyter notebook for user convenience*
+
 Player Rating has been calculated using MCDM method.
 
 ![](Images/playerRating.png)
@@ -39,20 +41,26 @@ We will be using Statsbomb as our data source which has immense detailed open-so
 
 mplsoccer is a Python library for plotting soccer/football charts in Matplotlib and loading StatsBomb open-data.
 
+*plotly* -
+
+Library for producing interactive plots.
+
 ## Installation Instructions
-The user **must**  install Jupyter Notebooks prior to running any scripts.
+The user **must**  install Jupyter Notebooks prior to running `Laliga_19-20_playAnalysis` script.
 
 All installation methods and requirements can be found [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html#:~:text=Jupyter%20installation%20requires%20Python%203.3,%2C%20pip%2C%20instead%20of%20Anaconda.)
 
-It is recommended to download [Anaconda](https://www.anaconda.com/products/distribution) for an easier installation
+It is recommended to download [Anaconda](https://www.anaconda.com/products/distribution) for an easier installation(Other libraries such as Numpy,pandas,seaborn,matplotlib,sklearn will be installed automatically)
 
 If any **errors** are encountered during the installation, use the [troubleshoot](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/) forum
 
 
 Following libraries needs to be installed in jupyter notebook using `pip` commmand.
 
-- `pip install mplsoccer`
-- `pip install plotly`
+import sys
+!{sys.executable} -m pip install mplsoccer
+!{sys.executable} -m pip install plotly
+
 
 ## Running the code
 
