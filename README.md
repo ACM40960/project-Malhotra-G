@@ -28,7 +28,8 @@ We will be using Statsbomb as our data source which has immense detailed open-so
 - matchwise_eventsdata_2019-2020.csv
 - matchwise_seasondata_2019-2020.csv
 
-‘Events Data’ which is used to capture each on-ball event of the match, recorded for all the matches of the league for that particular season.  
+‘Events Data’ which is used to capture each on-ball event of the match, recorded for all the matches of the league for that particular season.
+
 
 ## Packages Required
 
@@ -52,6 +53,9 @@ Following libraries needs to be installed in jupyter notebook using `pip` commma
 - `pip install plotly`
 
 ## Running the code
+
+**Note :** Both the csv files are in zip folder `data`. Before running the code, folder needs to be downloaded and unzipped. Please keep the unzipped data folder in the same location as the jupyter notebook.
+
 Once, the libraries are installed, either user can run the code cell by cell or there is a option to run all.
 To run all the cells at once :
 - Go to cells tab
@@ -59,7 +63,7 @@ To run all the cells at once :
 
 ## Authors
 
-- [Siddharth Rastogi](https://github.com/Sid-rastogi)
 - [Gautam Malhotra](https://github.com/Malhotra-G)
+- [Siddharth Rastogi](https://github.com/Sid-rastogi)
 
 
