@@ -58,8 +58,8 @@ If any **errors** are encountered during the installation, use the [troubleshoot
 Following libraries needs to be installed in jupyter notebook using `pip` commmand.
 
 import sys
-!{sys.executable} -m pip install mplsoccer
-!{sys.executable} -m pip install plotly
+-!{sys.executable} -m pip install mplsoccer
+-!{sys.executable} -m pip install plotly
 
 
 ## Running the code
