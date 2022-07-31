@@ -1,5 +1,5 @@
 
-# LaLiga (2019-2020) Play analysis
+# LaLiga 2019-2020 Play analysis
 
 ## Overview
 
@@ -46,7 +46,7 @@ mplsoccer is a Python library for plotting soccer/football charts in Matplotlib 
 Library for producing interactive plots.
 
 ## Installation Instructions
-The user **must**  install Jupyter Notebooks prior to running `Laliga_19-20_playAnalysis` script.
+The user **must**  install Jupyter Notebooks prior to running `LaLiga_2019-2020_PlayAnalysis.pynb` script.
 
 All installation methods and requirements can be found [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html#:~:text=Jupyter%20installation%20requires%20Python%203.3,%2C%20pip%2C%20instead%20of%20Anaconda.)
 
